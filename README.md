@@ -1,2 +1,1 @@
-#概要
-<img src="Assets/img/start.png">
+<img src="Assets/img/logo.png">
